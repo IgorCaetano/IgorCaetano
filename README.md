@@ -1,12 +1,28 @@
-### Olá, eu sou o Igor Caetano! Bem vindo ao meu perfil aqui no GitHub👋
+### Olá, eu sou o Igor Caetano! Bem-vindo ao meu perfil aqui no GitHub👋
 
-- 🧑‍🎓 Sou estudante de **Engenharia de Controle e Automação na Universidade Federal de Santa Catarina**.
+- 🧑‍🎓 Sou estudante de **Engenharia de Controle e Automação** na **Universidade Federal de Santa Catarina**.
   
 - 📚 Atualmente estudo majoritariamente **programação back-end** (sem interface para usuários).
   
-- 🐍 Noção boa em linguagem de programação **Python** e noções básicas em HTML e CSS.
+- 👨‍💻 Detenho conhecimento em:
+    - **Pacote Office** - Word, Excel, PowerPoint (_intermediário - avançado_);
+      
+    - **Microsoft PowerBI** (_intermediário_);
+      
+    - **Serviços Google** - Documentos, Planilhas, Drive, Gmail, Agenda, Colab (_intermediário - avançado_).
+ 
+    - Linguagem de programação **Python** (_intermediário_);
+      
+    - _Noções básicas_ em **HTML** e **CSS**;
   
-- ✨ Me encontro entusiasmado pelos campos na tecnologia/programação de **Automação de Processos (RPA), Raspagem de Dados (web scraping) e Processamento de Linguagem Natural**.
+- ✨ Me encontro entusiasmado pelos seguintes campos na programação e suas respectivas tecnologias envolvidas:
+    - **Automação de Processos - RPA** (extração e preenchimento de dados em planilhas Excel/Google Sheets, relatórios automatizados em PDF, etc);
+ 
+    - **Raspagem de Dados - Web Scraping** (extração de dados usando requests, bs4, urllib e/ou com web-drivers usando playwright e selenium);
+      
+    - **Análise de Dados** (estatísticas dos resultados / indicadores de desempenho usando pandas, matplotlib e PowerBI);
+      
+    - **Processamento de Linguagem Natural** (limpeza / pré-processamento de textos, vetorização de palavras e visualização de resultados usando regex, Word2Vec, matplotlib).
 
 ## 
  
