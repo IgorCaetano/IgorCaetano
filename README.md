@@ -5,15 +5,9 @@
 - 📚 Atualmente estudo majoritariamente **<ins>programação back-end</ins>** (sem interface para usuários).
   
 - 👨‍💻 Detenho conhecimento em:
-    - **Pacote Office** - Word, Excel, PowerPoint (_intermediário - avançado_);
-      
-    - **Microsoft PowerBI** (_básico - intermediário_);
-      
-    - **Serviços Google** - Documentos, Planilhas, Drive, Colab, etc (_intermediário - avançado_);
- 
-    - Plataformas de organização como **Miro**, **Notion** e **Trello** (_intermediário_);
- 
     - Linguagem de programação **Python** (_intermediário_);
+ 
+    - Ambientes de programação como **VS Code** e **Google Colab**;
       
     - _Noções básicas_ em **HTML** e **CSS**;
 ## 
@@ -28,13 +22,6 @@
   <img align="center" alt="Windows" height="30" width="100" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">  
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Miro" src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white">
-  <img align="center" alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-  <img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
-  <img align="center" alt="Overleaf" src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white">
-</div>
-
 ## 
 
 - ✨ Me encontro entusiasmado pelos seguintes campos na programação e suas respectivas tecnologias envolvidas:
@@ -45,6 +32,23 @@
     - **Análise de Dados** (estatísticas dos resultados / indicadores de desempenho usando pandas, matplotlib e PowerBI);
       
     - **Processamento de Linguagem Natural** (limpeza / pré-processamento de textos, vetorização de palavras e visualização de resultados usando regex, Word2Vec, matplotlib).
+
+## 
+- 👨‍💻 Detenho conhecimento em outras tecnologias fora da programação também, são elas:
+    - **Pacote Office** - Word, Excel, PowerPoint (_intermediário - avançado_);
+ 
+    - **Microsoft PowerBI** (_básico - intermediário_);
+ 
+    - **Serviços Google** - Documentos, Planilhas, Drive, Gmail, Agenda, etc (_intermediário - avançado_);
+      
+    - Plataformas de organização como **Miro**, **Notion** e **Trello** (_intermediário_);
+##  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Miro" src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white">
+  <img align="center" alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  <img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+  <img align="center" alt="Overleaf" src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white">
+</div>
 
 ## 
 
