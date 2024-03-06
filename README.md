@@ -9,7 +9,7 @@
  
     - Ambientes de programação como **VS Code** e **Google Colab**;
       
-    - _Noções básicas_ em **HTML** e **CSS**;
+    - _Noções básicas_ em **C / C++**, **Java**, **HTML** e **CSS**;
 ## 
 
 <div style="display: inline_block"><br>
