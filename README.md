@@ -2,7 +2,7 @@
 
 - 🧑‍🎓 Sou estudante de **Engenharia de Controle e Automação** na **Universidade Federal de Santa Catarina**.
   
-- 📚 Atualmente estudo majoritariamente **<ins>programação back-end</ins>** (sem interface para usuários) e me considero no nível intermediário.
+- 📚 Atualmente estudo majoritariamente **<ins>programação back-end</ins>** (sem interface para usuários) e me considero no **nível intermediário**.
   
 - 👨‍💻 Detenho conhecimento em:
     - Linguagem de programação **Python** (_intermediário_);
