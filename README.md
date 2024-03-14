@@ -27,7 +27,9 @@
 - ✨ Me encontro entusiasmado pelos seguintes campos na programação e suas respectivas tecnologias envolvidas:
     - **Automação de Processos - RPA** (extração e preenchimento de dados em planilhas Excel/Google Sheets, relatórios automatizados em PDF, etc);
  
-    - **Raspagem de Dados - Web Scraping** (extração de dados usando requests, bs4, urllib e/ou com web-drivers usando playwright e selenium);
+    - **Raspagem de Dados**
+        - **Web Scraping** - (extração de dados usando requests, bs4, urllib e/ou com web-drivers usando playwright e selenium);
+        - **Documentos em PDF** - (extração de informações textuais de documentos em PDF usando PyMuPDF);   
       
     - **Análise de Dados** (estatísticas dos resultados / indicadores de desempenho usando pandas, matplotlib e PowerBI);
       
