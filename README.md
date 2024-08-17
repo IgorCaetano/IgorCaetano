@@ -29,11 +29,11 @@
  
     - **Coleta/Raspagem de Dados:**
         - **Web Scraping** - (extração de dados usando requests, bs4, urllib e/ou com web-drivers usando playwright e selenium);
-        - **Documentos em PDF** - (extração de informações textuais de documentos em PDF usando PyMuPDF);   
+        - **Documentos em PDF** - (extração de informações textuais de documentos PDF);   
       
     - **Análise de Dados** (estatísticas dos resultados / indicadores de desempenho usando pandas, matplotlib e PowerBI);
       
-    - **Processamento de Linguagem Natural** (limpeza / pré-processamento de textos, vetorização de palavras e visualização de resultados usando regex, Word2Vec, matplotlib).
+    - **Processamento de Linguagem Natural** (limpeza / pré-processamento de textos, vetorização de palavras e visualização de resultados usando regex, spaCy, NLTK, Word2Vec, matplotlib).
 
 ## 
 - 👨‍💻 Detenho conhecimento em outras tecnologias fora da programação também, são elas:
@@ -43,7 +43,7 @@
  
     - **Serviços Google** - Documentos, Planilhas, Drive, Gmail, Agenda, etc (_intermediário - avançado_);
       
-    - Plataformas de organização como **Miro**, **Notion** e **Trello** (_intermediário_);
+    - Plataformas de organização como **Miro**, **Notion**,**Jira** e **Trello** (_intermediário_);
 ##  
 <div style="display: inline_block"><br>
   <img align="center" alt="Miro" src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white">
